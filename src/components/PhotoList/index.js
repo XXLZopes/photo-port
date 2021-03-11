@@ -1,5 +1,4 @@
-import React, { useState, render } from 'react';
-import coverImage from "../../assets/small/commercial/0.jpg"
+import React, { useState } from 'react';
 
 const PhotoList = ({ category }) => {
 
